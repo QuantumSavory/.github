@@ -1,6 +1,6 @@
 ---
 name: Bug Bounty
-about: 
+about: An award is available for solving this issue
 title: ''
 labels: 'bug bounty'
 assignees: ''
