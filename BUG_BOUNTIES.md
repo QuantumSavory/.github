@@ -11,7 +11,9 @@ To see all currently available bug bounties use [the organization's search page]
 
 You can always propose your own funded project, if you would like to contribute something of value that is not yet covered by an official bounty. Just contact us, e.g. by posting on the issue tracker or in the "quantum" topic on the [julia discourse forum](https://discourse.julialang.org/).
 
-All bounty projects are expected to be polished, tested, and documented -- not simply a code dump. We will help you and guide you during the polishing steps, especially if you are a new contributor.
+All bounty projects are expected to be polished, tested, and documented -- not simply a code dump. In particular, code should be structured so that it is easy to review (e.g. squash messy commits, follow github etiquette, organize big changes in separate commits so the reviewer can keep their bearings). Documentation should be high-quality, potentially including more than simply docstrings. Examples might be expected to be implemented. We will help you and guide you during the polishing steps, especially if you are a new contributor.
+
+If someone abandons a bounty project and someone else finishes it, whoever finishes the project gets the award. The original author will always be contacted and given a chance to finish their work withing a reasonable scope of time.
 
 The Funding for these bounties comes from the National Science Foundation and from the NSF Center for Quantum Networks.
 The payouts are managed by the NumFOCUS foundation and processed in bulk once every two months.
