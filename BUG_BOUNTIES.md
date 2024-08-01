@@ -12,7 +12,7 @@ To see all currently available bug bounties use [the organization's search page]
 And we have external projects on which we have put bounties (they do not show up in the organization's search page linked above):
 
 - [`QuantumOptics.jl`](https://github.com/qojulia/QuantumOptics.jl/issues?q=is%3Aissue+is%3Aopen+label%3A%22bug+bounty%22)
-
+- [`ResumableFunctions.jl`](https://github.com/JuliaDynamics/ResumableFunctions.jl/issues?q=is%3Aissue+is%3Aopen+label%3A%22bug+bounty%22)
 
 You can always propose your own funded project, if you would like to contribute something of value that is not yet covered by an official bounty. Just contact us, e.g. by posting on the issue tracker or in the "quantum" topic on the [julia discourse forum](https://discourse.julialang.org/).
 
