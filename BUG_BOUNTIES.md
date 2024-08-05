@@ -20,7 +20,7 @@ All bounty projects are expected to be polished, tested, and documented -- not s
 
 Larger projects (≥$800) will be set up more in the style of Summer of Code Projects. Chiefly, that means we would expect some form of "proof of skill", as usually required from GSoC and JSoC applicants, most commonly done by submitting and getting merged a simple pull request dealing with a minor issue.
 
-If someone abandons a bounty project and someone else finishes it, whoever finishes the project gets the award. The original author will always be contacted and given a chance to finish their work withing a reasonable scope of time.
+If someone abandons a bounty project and someone else finishes it, whoever finishes the project gets the award. The original author will always be contacted and given a chance to finish their work withing a reasonable scope of time. We would like to discourage participants from reserving one bounty and submitting unrelated bounties: such bounties will be honored, but we might request that the original reservation be removed to enable other participants to engage.
 
 The Funding for these bounties comes from the National Science Foundation and from the NSF Center for Quantum Networks.
 The payouts are managed by the NumFOCUS foundation and processed in bulk once every two months.
