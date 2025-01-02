@@ -25,3 +25,17 @@ If someone abandons a bounty project and someone else finishes it, whoever finis
 The Funding for these bounties comes from the National Science Foundation and from the NSF Center for Quantum Networks.
 The payouts are managed by the NumFOCUS foundation and processed in bulk once every two months.
 If you live in a country in which NumFOCUS can make payments, you can participate in this bounty program.
+
+### Payout procedure after bounty completion
+
+To process a payment after a completed bounty please do the following: Email [skrastanov@umass.edu](mailto:skrastanov@umass.edu) with your name, email, and bounty PR URL. You will be given a link at which to upload your invoice (as a PDF, here is a [popular template](https://create.microsoft.com/en-us/templates/invoices)). It will need to include:
+
+- a unique invoice number (you can make it up, it is for your record keeping)
+- date of submission
+- period when the work was completed
+- specifying this is for an "Award: bug bounty - <brief description or issue/PR number>" (the word "award" is important for proper tax filing)
+- the total amount
+- your information: name, email, postal address
+- bill it to "NumFOCUS for the Julia project"
+
+For tax purposes we will also need everyone to submit a [W-9 (for payments in the US)](https://www.irs.gov/pub/irs-pdf/fw9.pdf) or a [W-8 (if out of the country)](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf) -- just upload it when you fill out the invoice form. Do not worry if some part of the form is byzantine or unclear -- just leave it empty and the NumFOCUS folks will let you know if they need more information. Apologies for this complication, the US tax system is a bit antiquated.
