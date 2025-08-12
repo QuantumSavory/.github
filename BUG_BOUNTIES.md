@@ -3,7 +3,9 @@
 The QuantumSavory open source organization is continuously running bounties for bug fixes and enhancements to the tools we are developing. 
 The goal of this program is three-fold: building community; providing opportunities for novices; creating better software.
 
-To see all currently available bug bounties use [the organization's search page](https://github.com/search?q=org%3AQuantumSavory+label%3A%22bug+bounty%22&type=issues) or look directly at the issue trackers of the underlying projects. Here is a non-exhaustive list:
+[In the 2024-2025 period we awarded more than $8000 in bug bounties.](https://opencollective.com/julialang/projects/julia-krastanov-cqn)
+
+To see all currently available bug bounties use [the organization's search page](https://github.com/search?q=org%3AQuantumSavory%20label%3A%22bug%20bounty%22%20is%3Aopen&type=issues) or look directly at the issue trackers of the underlying projects. Here is a non-exhaustive list:
 
 - [`QuantumSavory.jl`](https://github.com/QuantumSavory/QuantumSavory.jl/issues?q=is%3Aissue+is%3Aopen+label%3A%22bug+bounty%22)
 - [`QuantumClifford.jl`](https://github.com/QuantumSavory/QuantumClifford.jl/issues?q=is%3Aissue+is%3Aopen+label%3A%22bug+bounty%22)
@@ -12,7 +14,8 @@ To see all currently available bug bounties use [the organization's search page]
 And we have external projects on which we have put bounties (they do not show up in the organization's search page linked above):
 
 - [`QuantumOptics.jl`](https://github.com/qojulia/QuantumOptics.jl/issues?q=is%3Aissue+is%3Aopen+label%3A%22bug+bounty%22)
-- [`ResumableFunctions.jl`](https://github.com/JuliaDynamics/ResumableFunctions.jl/issues?q=is%3Aissue+is%3Aopen+label%3A%22bug+bounty%22)
+- [`ResumableFunctions.jl`](https://github.com/JuliaDynamics/ResumableFunctions.jl/issues?q=is%3Aissue+is%3Aopen+label%3A%22bug+bounty%22) and [`ConcurrentSim.jl`](https://github.com/JuliaDynamics/ConcurrentSim.jl/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22bug%20bounty%22)
+- [`Graphs.jl`](https://github.com/search?q=org%3AJuliaGraphs%20label%3Abounty%20is%3Aopen&type=issues)
 
 You can always propose your own funded project, if you would like to contribute something of value that is not yet covered by an official bounty. Just contact us, e.g. by posting on the issue tracker or in the "quantum" topic on the [julia discourse forum](https://discourse.julialang.org/).
 
