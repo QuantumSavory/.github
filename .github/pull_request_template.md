@@ -1,6 +1,8 @@
-If you want to submit an unfinished piece of work in order to get comments and discuss, please mark the pull request as a draft and ping the repository maintainer.
+**Edit this message to describe your submission -- delete the instruction content and put in your own.**
 
 **Please address only one topic or issue per pull request! Many small PRs are much easier to review and merge than one large PR.**
+
+If you want to submit an unfinished piece of work in order to get comments and discuss, please mark the pull request as a draft and ping the repository maintainer.
 
 Before merging, all changes and new functionality should be marked in the CHANGELOG file, but feel free to just leave your CHANGELOG notes in the PR description, to avoid merge conflicts with other requests modifying that file. The maintainer will add these CHANGELOG notes for you if you do so.
 
