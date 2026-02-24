@@ -2,6 +2,8 @@
 
 **Please address only one topic or issue per pull request! Many small PRs are much easier to review and merge than one large PR.**
 
+**If this is your first submission to this organization and you are not a developer known in the Julia ecosystem, do not use LLMs -- we need to trust you first before we trust the LLM under your control.**
+
 If you want to submit an unfinished piece of work in order to get comments and discuss, please mark the pull request as a draft and ping the repository maintainer.
 
 Before merging, all changes and new functionality should be marked in the CHANGELOG file, but feel free to just leave your CHANGELOG notes in the PR description, to avoid merge conflicts with other requests modifying that file. The maintainer will add these CHANGELOG notes for you if you do so.
