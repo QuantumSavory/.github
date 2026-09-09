@@ -2,7 +2,9 @@
 
 **Please address only one topic or issue per pull request! Many small PRs are much easier to review and merge than one large PR.**
 
-**If this is your first submission to this organization and you are not a developer known in the Julia ecosystem, do not use LLMs -- we need to trust you first before we trust the LLM under your control.**
+Contributors new to the project must not use LLMs or coding agents to generate code. They may use these tools to analyze existing code and to review code they have written themselves. New contributors participating in the bounty program must attend [office hours](https://quantumsavory.org/community/office-hours/) to discuss their pull request.
+This is done to vet that a contributor has the skills to themselves
+review code written by an LLM.
 
 If you want to submit an unfinished piece of work in order to get comments and discuss, please mark the pull request as a draft and ping the repository maintainer.
 
@@ -17,6 +19,8 @@ Before considering your pull request ready for review and merging, make sure tha
 - [ ] We recently started enforcing formatting checks. If formatting issues are reported in the new code you have written, please correct them. <small>There will be plenty of old code that is flagged as we are slowly transitioning to enforced formatting. Please do not worry about or address older formatting issues -- keep your PR just focused on your planned contribution.</small>
 
 If you are submitting for a bug bounty:
+
 - [ ] I have read and followed the [AI usage and disclosure policy](https://github.com/QuantumSavory/.github/blob/main/BUG_BOUNTIES.md)
+- [ ] If I am a new contributor, I have attended [office hours](https://quantumsavory.org/community/office-hours/) to discuss this pull request.
 
 If possible, keep your git history not too wild (rebase and squash commits, keep commits small and semantically separated) so that review is easier.
