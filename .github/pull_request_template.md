@@ -2,7 +2,9 @@
 
 **Please address only one topic or issue per pull request! Many small PRs are much easier to review and merge than one large PR.**
 
-New contributors must not use LLMs or coding agents to generate code. They may use these tools to analyze existing code and to review code they have written themselves. New contributors participating in the bounty program must attend [office hours](https://quantumsavory.org/community/office-hours/) to discuss their pull request.
+Contributors new to the project must not use LLMs or coding agents to generate code. They may use these tools to analyze existing code and to review code they have written themselves. New contributors participating in the bounty program must attend [office hours](https://quantumsavory.org/community/office-hours/) to discuss their pull request.
+This is done to vet that a contributor has the skills to themselves
+review code written by an LLM.
 
 If you want to submit an unfinished piece of work in order to get comments and discuss, please mark the pull request as a draft and ping the repository maintainer.
 
