@@ -21,7 +21,7 @@ assignees: ''
 
 The Funding for these bounties comes from the National Science Foundation and from the NSF Center for Quantum Networks. The payouts are managed by the NumFOCUS foundation and processed in bulk once every two months. If you live in a country in which NumFOCUS can make payments, you can participate in this bounty program.
 
-Contributors participating in the bounty program must not use LLMs or coding agents to generate code. They may use these tools to analyze existing code and to review code they have written themselves. They must attend [office hours](https://quantumsavory.org/community/office-hours/) to discuss their pull request (which will be closed otherwise).
+Contributors participating in the bounty program must not use LLMs or coding agents to generate code. They may use these tools to analyze existing code and to review code they have written themselves. They must attend office hours to discuss their pull request (which will be closed otherwise). Office hours can be [scheduled on-demand](https://cal.com/krastanov/quantum-savory-office-hours).
 
 [Click here for more details about the bug bounty program.](https://github.com/QuantumSavory/.github/blob/main/BUG_BOUNTIES.md)
 

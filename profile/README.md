@@ -4,7 +4,7 @@
 
 ## Office Hours
 
-Office hours are held every Friday from 12:30 – 1:30 PM Eastern Time via [Zoom](https://umass-amherst.zoom.us/j/95986275946?pwd=6h7Wbai1bXIai0XQsatNRWaVbQlTDr.1). Before joining, make sure to check the [Julia community events calendar](https://julialang.org/community/#events) to confirm whether office hours are happening, rescheduled, or canceled for the week. Feel free to bring any questions or suggestions!
+Office hours can be scheduled on-demand at [cal.com/krastanov/quantum-savory-office-hours](https://cal.com/krastanov/quantum-savory-office-hours). Feel free to bring any questions or suggestions!
 
 ## Support
 
@@ -17,6 +17,6 @@ by NSF Grant 2346089 "Research Infrastructure: CIRC: New: Full-stack Codesign To
 
 [We run many bug bounties and encourage submissions from novices (we are happy to help onboard you in the field).](https://github.com/QuantumSavory/.github/blob/main/BUG_BOUNTIES.md)
 
-Contributors new to the project must not use LLMs or coding agents to generate code. They may use these tools to analyze existing code and to review code they have written themselves. New contributors participating in the bounty program must attend [office hours](https://quantumsavory.org/community/office-hours/) to discuss their pull request.
+Contributors new to the project must not use LLMs or coding agents to generate code. They may use these tools to analyze existing code and to review code they have written themselves. New contributors participating in the bounty program must attend office hours to discuss their pull request. Office hours can be [scheduled on-demand](https://cal.com/krastanov/quantum-savory-office-hours).
 This is done to vet that a contributor has the skills to themselves
 review code written by an LLM.

@@ -2,7 +2,7 @@
 
 **Please address only one topic or issue per pull request! Many small PRs are much easier to review and merge than one large PR.**
 
-Contributors new to the project must not use LLMs or coding agents to generate code. They may use these tools to analyze existing code and to review code they have written themselves. New contributors participating in the bounty program must attend [office hours](https://quantumsavory.org/community/office-hours/) to discuss their pull request.
+Contributors new to the project must not use LLMs or coding agents to generate code. They may use these tools to analyze existing code and to review code they have written themselves. New contributors participating in the bounty program must attend office hours to discuss their pull request. Office hours can be [scheduled on-demand](https://cal.com/krastanov/quantum-savory-office-hours).
 This is done to vet that a contributor has the skills to themselves
 review code written by an LLM.
 
@@ -21,6 +21,6 @@ Before considering your pull request ready for review and merging, make sure tha
 If you are submitting for a bug bounty:
 
 - [ ] I have read and followed the [AI usage and disclosure policy](https://github.com/QuantumSavory/.github/blob/main/BUG_BOUNTIES.md)
-- [ ] If I am a new contributor, I have attended [office hours](https://quantumsavory.org/community/office-hours/) to discuss this pull request.
+- [ ] If I am a new contributor, I have attended [office hours](https://cal.com/krastanov/quantum-savory-office-hours) to discuss this pull request.
 
 If possible, keep your git history not too wild (rebase and squash commits, keep commits small and semantically separated) so that review is easier.
